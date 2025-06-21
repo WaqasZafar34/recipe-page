@@ -6,12 +6,6 @@ body{
     margin-bottom: 300px;
     background-color: rgb(242, 228, 212);
     justify-content: center;
-    border: 1px;
-    border-style: solid;
-    border-radius: 10px;
-    padding: 20px;
-    
-    
 }
 .image img{
     width: 465px;
@@ -31,18 +25,145 @@ body{
     
 }
 .box2{
-    margin-top: 50px;
-    margin-left: 20px;
+    margin-top: 20px;
+    
+    background-color: rgb(243, 237, 243);
+    border-radius: 10px;
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    margin-right: 30px;
+    margin-bottom: 20px;
+    width: 450px;
+
+    
 }
 .box2 ul{
-    color: rgb(197, 147, 85);
+    color: rgb(155, 131, 101);
+    margin-left: 10px;
+    padding-left: 10px;
+    line-height: 25px;
+    
+    
 }
-.box2 #a{
+#a{
     color: rgb(88, 55, 15);
+    font-weight: bold;
 }
-.box2 #a{
+#b{
     color: rgb(88, 55, 15);
+    font-weight: bold;
 }
-.box2 #a{
+#c{
     color: rgb(88, 55, 15);
+    font-weight: bold;
+}
+.box3 strong{
+    color: rgb(120, 97, 38);
+    font-size: x-large;
+}
+.box3 ul{
+    color: rgb(155, 131, 101);
+    padding-left: 30px;
+}
+.box4{
+    margin-top: 40px;
+    border-top: 1px solid;
+    border-bottom: 1px solid;
+    padding-top: 40px;
+    padding-bottom: 20px;
+    
+}
+.box4 strong{
+    color: rgb(120, 97, 38);
+    font-size: x-large;
+}
+.box4 ol{
+    color: rgb(155, 131, 101);
+}
+#d{
+    color: rgb(88, 55, 15);
+    font-weight: bold;
+}
+#e{
+    color: rgb(88, 55, 15);
+    font-weight: bold;
+}
+#f{
+    color: rgb(88, 55, 15);
+    font-weight: bold;
+}
+#g{
+    color: rgb(88, 55, 15);
+    font-weight: bold;
+}
+#h{
+    color: rgb(88, 55, 15);
+    font-weight: bold;
+}
+#i{
+    color: rgb(88, 55, 15);
+    font-weight: bold;
+}
+.box5 strong{
+    color: rgb(120, 97, 38);
+    font-size: x-large;
+}
+.box5{
+    padding-top: 20px;
+    padding-left: 10px;
+}
+.box5 p{
+    color: rgb(155, 131, 101)
+}
+#cal{
+    display: flex;
+    gap: 240px;
+    align-items: center;
+}
+#cal1{
+    color: rgb(88, 55, 15);
+    font-weight: bold;
+}
+#carb{
+    display: flex;
+    gap: 280px;
+    align-items: center;
+    border-top: 1px solid;
+}
+#carb1{
+    color: rgb(88, 55, 15);
+    font-weight: bold;
+}
+#protein{
+    display: flex;
+    gap: 265px;
+    align-items: center;
+    border-top: 1px solid;
+}
+#protein1{
+    color: rgb(88, 55, 15);
+    font-weight: bold;
+}
+#fat{
+    display: flex;
+    gap: 292px;
+    align-items: center;
+    border-top: 1px solid;
+}
+#fat1{
+    color: rgb(88, 55, 15);
+    font-weight: bold;
+}
+.attribution{
+    text-align: center;
+
+}
+.border{
+    border: 1px;
+    border-style: solid;
+    border-radius: 10px;
+    padding: 20px;
+    border-color: white;
+    background-color: white;
 }
